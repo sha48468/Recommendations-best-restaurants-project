@@ -1,0 +1,1051 @@
+year,rank,restaurantName,location,country,latitude ,longitude
+2002,1,El Bulli,Roses,Spain,42.2639489,3.1795528
+2002,2,Restaurant Gordon Ramsay,London,United Kingdom,51.5072178,-0.1275862
+2002,3,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2002,4,Rockpool,Sydney,Australia,-33.8688197,151.2092955
+2002,5,Spoon des Iles,Ile Maurice,Mauritius,-20.348404,57.552152
+2002,6,L'Auberge de l'Ill,Alsace,France,48.584614,7.750713
+2002,7,1884,Godoy Cruz,Argentina,-32.9286268,-68.8583963
+2002,8,The Ivy,London,United Kingdom,51.5072178,-0.1275862
+2002,9,Eigensinn Farm,Singhampton,Canada,44.350193,-80.248215
+2002,10,Tetsuya's,Sydney,Australia,-33.8688197,151.2092955
+2002,11,Charlie Trotter's,Chicago,United States,41.8781136,-87.6297982
+2002,12,Tangerine,Philadelphia,United States,39.9525839,-75.1652215
+2002,13,La Coupole,Paris,France,48.8575475,2.3513765
+2002,14,Bukhara,New Delhi,India,28.6139298,77.2088282
+2002,15,Vong,New York,United States,40.7127753,-74.0059728
+2002,16,L'Ambroisie,Paris,France,48.8575475,2.3513765
+2002,17,Al Mahara,Dubai,United Arab Emirates,25.2048493,55.2707828
+2002,18,Felix,Hong Kong,Hong Kong,22.3193039,114.1693611
+2002,19,The Merchant House,Portsmouth,United Kingdom,50.8197675,-1.0879769
+2002,20,Operakällaren,Stockholm,Sweden,59.3293234,18.0685808
+2002,21,Gramercy Tavern,New York,United States,40.7127753,-74.0059728
+2002,22,Sukiyabashi Jiro,Tokyo,Japan,35.6764225,139.650027
+2002,23,Little Washington,Washington,United States,47.7510741,-120.7401386
+2002,24,Alle Testiere,Venice,Italy,45.440379,12.3159547
+2002,25,The Lone Star,Mount Standfast,Barbados,13.2064902,-59.6348312
+2002,26,Chez Vroney,Zermatt,Switzerland,46.0207133,7.749117
+2002,27,Flower Drum,Melbourne,Australia,-37.8136276,144.9630576
+2002,28,The Three Chimneys,Isle of Skye,United Kingdom,57.2736278,-6.2155022
+2002,29,Chez Panisse,Berkeley,United States,37.8715226,-122.273042
+2002,30,Le Jardin des Sens,Montpellier,France,43.6108535,3.8761323
+2002,31,River Café,London,United Kingdom,51.5072178,-0.1275862
+2002,32,Kronenhalle,Zürich,Switzerland,47.3768866,8.541694
+2002,33,Il Pescatore,Orlando,United States,28.5383832,-81.3789269
+2002,34,Nepenthe,Big Sur,United States,36.2704233,-121.8080556
+2002,35,The Spa,Lamai Beach,Thailand,9.4618256,100.0446198
+2002,36,Hotel de Paris,Monaco,Monaco,43.7384176,7.42461579
+2002,37,Moulin de Mougin,Mougins,France,43.6023319,7.006491
+2002,38,Ginza Sushiko,Beverly Hills,United States,34.0736204,-118.4003563
+2002,39,Changa,Istanbul,Türkiye,41.0082376,28.9783589
+2002,40,Michel Bras,Laguiole,France,44.683579,2.845605
+2002,41,Le Quartier Français,Franschhoek,South Africa,-33.9127211,19.1212795
+2002,42,Roundwood House,County Laois,Ireland,52.994295,-7.33230069
+2002,43,The Supper Club,Amsterdam,Netherlands,52.3675734,4.9041389
+2002,44,Blue Lagoon,Grindavik,Iceland,63.8433896,-22.4359996
+2002,45,Bayona,New Orleans,United States,29.9508941,-90.0758355
+2002,46,The Grundel,Budapest,Hungary,47.498382,19.040471
+2002,47,Carnivore,Nairobi,Kenya,-1.2920659,36.8219462
+2002,48,Bagatelle,Oslo,Norway,59.9138688,10.7522454
+2002,49,Susar,Toronto,Canada,43.653226,-79.3831843
+2002,50,Tantris,München,Germany,48.1351253,11.5819806
+2003,1,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2003,2,El Bulli,Roses,Spain,42.2639489,3.1795528
+2003,3,Le Louis XV,Monaco,Monaco,43.7384176,7.42461579
+2003,4,Jean Georges,New York,United States,40.7127753,-74.0059728
+2003,5,Restaurant Gordon Ramsay,London,United Kingdom,51.5072178,-0.1275862
+2003,6,Arpège,Paris,France,48.8575475,2.3513765
+2003,7,Comme Chez Soi,Brussels,Belgium,50.8476424,4.3571696
+2003,8,Rockpool,Sydney,Australia,-33.8688197,151.2092955
+2003,9,L'Ambroisie,Paris,France,48.8575475,2.3513765
+2003,10,Gramercy Tavern,New York,United States,40.7127753,-74.0059728
+2003,11,Michel Bras,Laguiole,France,44.683579,2.845605
+2003,12,Chez Panisse,Berkeley,United States,37.8715226,-122.273042
+2003,13,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2003,14,The Merchant House,London,United Kingdom,51.5072178,-0.1275862
+2003,15,Bocca,Tallinn,Estonia,59.4369607,24.7535746
+2003,16,Sukiyabashi Jiro,Tokyo,Japan,35.6764225,139.650027
+2003,17,Felix,Hong Kong,Hong Kong,22.3193039,114.1693611
+2003,18,L'Auberge de l'Ill,Illhaeusern,France,48.184834,7.43380399
+2003,19,Gidleigh Park,Changford,United Kingdom,50.673066,-3.840265
+2003,20,Bukhara,New Delhi,India,28.6139298,77.2088282
+2003,21,Paul Boscoe,France,France,46.227638,2.213749
+2003,22,De Karmeliet,Bruges,Belgium,51.2093707,3.2247548
+2003,23,Al Mahara,Dubai,United Arab Emirates,25.2048493,55.2707828
+2003,24,Vincent Guerithault on Camelback,Phoenix,United States,33.4483771,-112.0740373
+2003,25,Thorton's,Dublin,Ireland,53.3498053,-6.2603097
+2003,26,Nobu,London,United Kingdom,51.5072178,-0.1275862
+2003,27,Operakällaren,Stockholm,Sweden,59.3293234,18.0685808
+2003,28,Eigensinn Farm,Singhampton,Canada,44.350193,-80.248215
+2003,29,Le Manoir aux Quat'Saison,Oxford,United Kingdom,51.7520209,-1.2577263
+2003,30,Guy Savoy,Paris,France,48.8575475,2.3513765
+2003,31,The Ivy,London,United Kingdom,51.5072178,-0.1275862
+2003,32,The Three Chimneys,Isle of Skye,United Kingdom,57.2736278,-6.2155022
+2003,33,Petrus,London,United Kingdom,51.5072178,-0.1275862
+2003,34,Daniel,New York,United States,40.7127753,-74.0059728
+2003,35,Dal Pescatore,Canneto sull'Oglio,Italy,45.1515537,10.3828899
+2003,36,Bagatelle,Oslo,Norway,59.9138688,10.7522454
+2003,37,Tetsuya's,Sydney,Australia,-33.8688197,151.2092955
+2003,38,Quattro Passi,Massa Lubrense,Italy,40.6108903,14.3449936
+2003,39,Charlie Trotter's,Chicago,United States,41.8781136,-87.6297982
+2003,40,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2003,41,Flower Drum,Melbourne,Australia,-37.8136276,144.9630576
+2003,42,The Cliff,Durants,Barbados,13.1580476,-59.6326696
+2003,43,The Square,London,United Kingdom,51.5072178,-0.1275862
+2003,44,Enoteca Pinchiorri,Florence,Italy,43.7699685,11.2576706
+2003,45,1884,Godoy Cruz,Argentina,-32.9286268,-68.8583963
+2003,46,Checchino Dal 1887,Rome,Italy,41.8967068,12.4822025
+2003,47,River Café,London,United Kingdom,51.5072178,-0.1275862
+2003,48,New York Grill,Tokyo,Japan,35.6764225,139.650027
+2003,49,St John,London,United Kingdom,51.5072178,-0.1275862
+2003,50,Carnivore,Nairobi,Kenya,-1.2920659,36.8219462
+2004,1,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2004,2,The Fat Duck,Maidenhead,United Kingdom,51.5225605,-0.7243082
+2004,3,El Bulli,Roses,Spain,42.2639489,3.1795528
+2004,4,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2004,5,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2004,6,Guy Savoy,Paris,France,48.8575475,2.3513765
+2004,7,Nobu,London,United Kingdom,51.5072178,-0.1275862
+2004,8,Restaurant Gordon Ramsay,London,United Kingdom,51.5072178,-0.1275862
+2004,9,Bras,Laguiole,France,44.683579,2.845605
+2004,10,Le Louis XV,Monaco,Monaco,43.7384176,7.42461579
+2004,11,Gramercy Tavern,New York,United States,40.7127753,-74.0059728
+2004,12,Daniel,New York,United States,40.7127753,-74.0059728
+2004,13,Tetsuya's,Sydney,Australia,-33.8688197,151.2092955
+2004,14,Hakkasan,London,United Kingdom,51.5072178,-0.1275862
+2004,15,The Waterside Inn,London,United Kingdom,51.5072178,-0.1275862
+2004,16,St John,London,United Kingdom,51.5072178,-0.1275862
+2004,17,L'Ami Louis,Paris,France,48.8575475,2.3513765
+2004,18,Jean Georges,New York,United States,40.7127753,-74.0059728
+2004,19,Le Gavroche,London,United Kingdom,51.5072178,-0.1275862
+2004,20,Flower Drum,Melbourne,Australia,-37.8136276,144.9630576
+2004,21,The Merchant House,London,United Kingdom,51.5072178,-0.1275862
+2004,22,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2004,23,Dal Pescatore,Canneto sull'Oglio,Italy,45.1515537,10.3828899
+2004,24,The Ivy,London,United Kingdom,51.5072178,-0.1275862
+2004,25,Arpège,Paris,France,48.8575475,2.3513765
+2004,26,Can Fabes,Barcelona,Spain,41.3873974,2.168568
+2004,27,Die Schwarzaldstube,Baiersbronn,Germany,48.5089458,8.3706727
+2004,28,The Cliff,Durants,Barbados,13.1580476,-59.6326696
+2004,29,Rockpool,Sydney,Australia,-33.8688197,151.2092955
+2004,30,Le Manoir aux Quat'Saisons,Oxford,United Kingdom,51.7520209,-1.2577263
+2004,31,Al Mahara,Dubai,United Arab Emirates,25.2048493,55.2707828
+2004,32,Charlie Trotter's,Chicago,United States,41.8781136,-87.6297982
+2004,33,Le Jardin des Sens,Montpellier,France,43.6108535,3.8761323
+2004,34,The Square,London,United Kingdom,51.5072178,-0.1275862
+2004,35,Spago,Beverly Hills,United States,34.0736204,-118.4003563
+2004,36,Bukhara,New Delhi,India,28.6139298,77.2088282
+2004,37,Chez Panisse,Berkeley,United States,37.8715226,-122.273042
+2004,38,Le Meurice,Paris,France,48.8575475,2.3513765
+2004,39,Troisgros,Ouches,France,46.014944,3.986587
+2004,40,Balthazar,New York,United States,40.7127753,-74.0059728
+2004,41,River Café,London,United Kingdom,51.5072178,-0.1275862
+2004,42,La Tupina,Bordeaux,France,44.8416106,-0.5810938
+2004,43,L'Auberge de l'Ill,Illhaeusern,France,48.184834,7.43380399
+2004,44,Craft,New York,United States,40.7127753,-74.0059728
+2004,45,La Tour D'Argent,Paris,France,48.8575475,2.3513765
+2004,46,Le Maison de Marc Veyrat,Manigod,France,45.861224,6.36913699
+2004,47,Felix,Hong Kong,Hong Kong,22.3193039,114.1693611
+2004,48,De Karmeliet,Bruges,Belgium,51.2093707,3.2247548
+2004,49,The Wolseley,London,United Kingdom,51.5072178,-0.1275862
+2004,50,Gambero Roso,Vernazza,Italy,44.1353502,9.6827957
+2005,1,The Fat Duck,Maidenhead,United Kingdom,51.5225605,-0.7243082
+2005,2,El Bulli,Roses,Spain,42.2639489,3.1795528
+2005,3,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2005,4,Tetsuya's,Sydney,Australia,-33.8688197,151.2092955
+2005,5,Restaurant Gordon Ramsay,London,United Kingdom,51.5072178,-0.1275862
+2005,6,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2005,7,Per Se,New York,United States,40.7127753,-74.0059728
+2005,8,Tom Aikens,London,United Kingdom,51.5072178,-0.1275862
+2005,9,Jean Georges,New York,United States,40.7127753,-74.0059728
+2005,10,St John,London,United Kingdom,51.5072178,-0.1275862
+2005,11,Bras,Laguiole,France,44.683579,2.845605
+2005,12,Le Louis XV,Monaco,Monaco,43.7384176,7.42461579
+2005,13,Chez Panisse,Berkeley,United States,37.8715226,-122.273042
+2005,14,Charlie Trotter's,Chicago,United States,41.8781136,-87.6297982
+2005,15,Gramercy Tavern,New York,United States,40.7127753,-74.0059728
+2005,16,Guy Savoy,Paris,France,48.8575475,2.3513765
+2005,17,Alain Ducasse,Paris,France,48.8575475,2.3513765
+2005,18,Sketch,London,United Kingdom,51.5072178,-0.1275862
+2005,19,The Waterside Inn,London,United Kingdom,51.5072178,-0.1275862
+2005,20,Nobu,London,United Kingdom,51.5072178,-0.1275862
+2005,21,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2005,22,Can Fabes,Barcelona,Spain,41.3873974,2.168568
+2005,23,Checchino Dal 1887,Rome,Italy,41.8967068,12.4822025
+2005,24,Le Meurice,Paris,France,48.8575475,2.3513765
+2005,25,L'Hotel de Ville,Crissier,Switzerland,46.5518687,6.5743458
+2005,26,Arpège,Paris,France,48.8575475,2.3513765
+2005,27,The Connaught,London,United Kingdom,51.5072178,-0.1275862
+2005,28,Le Manoir aux Quat'Saisons,Oxford,United Kingdom,51.7520209,-1.2577263
+2005,29,Le Cinq,Paris,France,48.8575475,2.3513765
+2005,30,Hakkasan,London,United Kingdom,51.5072178,-0.1275862
+2005,31,Cal Pep,Barcelona,Spain,41.3873974,2.168568
+2005,32,Masa,New York,United States,40.7127753,-74.0059728
+2005,33,Flower Drum,Melbourne,Australia,-37.8136276,144.9630576
+2005,34,WD~50,New York,United States,40.7127753,-74.0059728
+2005,35,Le Quartier Français,Franschhoek,South Africa,-33.9127211,19.1212795
+2005,36,Spice Market,New York,United States,40.7127753,-74.0059728
+2005,37,L'Auberge de l'Ill,Illhaeusern,France,48.184834,7.43380399
+2005,38,Manresa,Port Townsend,United States,48.1170386,-122.7604472
+2005,39,Dieter Mueller,Gladbach,Germany,51.1941686,6.4315392
+2005,40,Troisgros,Ouches,France,46.014944,3.986587
+2005,41,The Wolseley,London,United Kingdom,51.5072178,-0.1275862
+2005,42,Rockpool,Sydney,Australia,-33.8688197,151.2092955
+2005,43,Yauatcha,London,United Kingdom,51.5072178,-0.1275862
+2005,44,The Ivy,London,United Kingdom,51.5072178,-0.1275862
+2005,45,Gambero Rosso,Vernazza,Italy,44.1353502,9.6827957
+2005,46,The Cliff,Durants,Barbados,13.1580476,-59.6326696
+2005,47,Le Gavroche,London,United Kingdom,51.5072178,-0.1275862
+2005,48,Enoteca Pinchiorri,Florence,Italy,43.7699685,11.2576706
+2005,49,Felix,Hong Kong,Hong Kong,22.3193039,114.1693611
+2005,50,La Tupina,Bordeaux,France,44.8416106,-0.5810938
+2006,1,El Bulli,Roses,Spain,42.2639489,3.1795528
+2006,2,The Fat Duck,Maidenhead,United Kingdom,51.5225605,-0.7243082
+2006,3,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2006,4,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2006,5,Tetsuya's,Sydney,Australia,-33.8688197,151.2092955
+2006,6,Bras,Laguiole,France,44.683579,2.845605
+2006,7,Le Louis XV,Monaco,Monaco,43.7384176,7.42461579
+2006,8,Per Se,New York,United States,40.7127753,-74.0059728
+2006,9,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2006,10,Mugaritz,Gipuzkoa,Spain,43.0756299,-2.2236667
+2006,11,Can Fabes,Barcelona,Spain,41.3873974,2.168568
+2006,12,Nobu,London,United Kingdom,51.5072178,-0.1275862
+2006,13,Gambero Rosso,Vernazza,Italy,44.1353502,9.6827957
+2006,14,Restaurant Gordon Ramsay,London,United Kingdom,51.5072178,-0.1275862
+2006,15,Alain Ducasse,Paris,France,48.8575475,2.3513765
+2006,16,Jean Georges,New York,United States,40.7127753,-74.0059728
+2006,17,Le Cinq,Paris,France,48.8575475,2.3513765
+2006,18,Daniel,New York,United States,40.7127753,-74.0059728
+2006,19,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
+2006,20,Chez Panisse,Berkeley,United States,37.8715226,-122.273042
+2006,21,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2006,22,L'Astrance,Paris,France,48.8575475,2.3513765
+2006,23,Hof van Cleve,Kruisem,Belgium,50.9045204,3.5281422
+2006,24,Troisgros,Ouches,France,46.014944,3.986587
+2006,25,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2006,26,Charlie Trotter's,Chicago,United States,41.8781136,-87.6297982
+2006,27,Le Gavroche,London,United Kingdom,51.5072178,-0.1275862
+2006,28,La Colombe,Cape Town,South Africa,-33.922087,18.4231418
+2006,29,Enoteca Pinchiorri,Florence,Italy,43.7699685,11.2576706
+2006,30,Rockpool,Sydney,Australia,-33.8688197,151.2092955
+2006,31,Le Calandre,Padua,Italy,45.4105029,11.8782071
+2006,32,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2006,33,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2006,34,Dieter Mueller,Gladbach,Germany,51.1941686,6.4315392
+2006,35,St John,London,United Kingdom,51.5072178,-0.1275862
+2006,36,Hakkasan,London,United Kingdom,51.5072178,-0.1275862
+2006,37,Martin Berasategui,Lasarte-Oria,Spain,43.2684377,-2.0178149
+2006,38,Le Quartier Français,Franschhoek,South Africa,-33.9127211,19.1212795
+2006,39,Chez Dominique,Helsinki,Finland,60.1698556,24.938379
+2006,40,L'Ambroisie,Paris,France,48.8575475,2.3513765
+2006,41,Die Schwarzaldstube,Baiersbronn,Germany,48.5089458,8.3706727
+2006,42,Dal Pescatore,Canneto sull'Oglio,Italy,45.1515537,10.3828899
+2006,43,Bocuse,Lyon,France,45.764043,4.835659
+2006,44,Arpège,Paris,France,48.8575475,2.3513765
+2006,45,Gramercy Tavern,New York,United States,40.7127753,-74.0059728
+2006,46,Bukhara,New Delhi,India,28.6139298,77.2088282
+2006,47,De Karmeliet,Bruges,Belgium,51.2093707,3.2247548
+2006,48,Oaxen Krog,Stockholm,Sweden,59.3293234,18.0685808
+2006,49,Comme Chez Soi,Brussels,Belgium,50.8476424,4.3571696
+2006,50,D.O.M.,São Paulo,Brazil,-23.5557714,-46.6395571
+2007,1,El Bulli,Roses,Spain,42.2639489,3.1795528
+2007,2,The Fat Duck,Maidenhead,United Kingdom,51.5225605,-0.7243082
+2007,3,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2007,4,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2007,5,Tetsuya's,Sydney,Australia,-33.8688197,151.2092955
+2007,6,Bras,Laguiole,France,44.683579,2.845605
+2007,7,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2007,8,Le Louis XV,Monaco,Monaco,43.7384176,7.42461579
+2007,9,Per Se,New York,United States,40.7127753,-74.0059728
+2007,10,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2007,11,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2007,12,Gambero Rosso,Vernazza,Italy,44.1353502,9.6827957
+2007,13,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2007,14,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2007,15,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2007,16,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2007,17,Nobu,London,United Kingdom,51.5072178,-0.1275862
+2007,18,Jean Georges,New York,United States,40.7127753,-74.0059728
+2007,19,Hakkasan,London,United Kingdom,51.5072178,-0.1275862
+2007,20,Alain Ducasse au Plaza Athénée,Paris,France,48.8575475,2.3513765
+2007,21,L'Astrance,Paris,France,48.8575475,2.3513765
+2007,22,Can Fabes,Barcelona,Spain,41.3873974,2.168568
+2007,23,L'Ambroisie,Paris,France,48.8575475,2.3513765
+2007,24,Restaurant Gordon Ramsay,London,United Kingdom,51.5072178,-0.1275862
+2007,25,Troisgros,Paris,France,48.8575475,2.3513765
+2007,26,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2007,27,Martin Berasategui,Lasarte-Oria,Spain,43.2684377,-2.0178149
+2007,28,Le Gavroche,London,United Kingdom,51.5072178,-0.1275862
+2007,29,Le Cinq,Paris,France,48.8575475,2.3513765
+2007,30,Charlie Trotter's,Chicago,United States,41.8781136,-87.6297982
+2007,31,Dal Pescatore,Canneto sull'Oglio,Italy,45.1515537,10.3828899
+2007,32,Daniel,New York,United States,40.7127753,-74.0059728
+2007,33,Rockpool,Sydney,Australia,-33.8688197,151.2092955
+2007,34,St John,London,United Kingdom,51.5072178,-0.1275862
+2007,35,Chez Dominique,Helsinki,Finland,60.1698556,24.938379
+2007,36,Alinea,Chicago,United States,41.8781136,-87.6297982
+2007,37,Bukhara,New Delhi,India,28.6139298,77.2088282
+2007,38,D.O.M.,São Paulo,Brazil,-23.5557714,-46.6395571
+2007,39,Oaxen Krog,Stockholm,Sweden,59.3293234,18.0685808
+2007,40,Chez Panisse,Berkeley,United States,37.8715226,-122.273042
+2007,41,Enoteca Pinchiorri,Florence,Italy,43.7699685,11.2576706
+2007,42,Cracco Peck,Milan,Italy,45.468503,9.18240269
+2007,43,Arpège,Paris,France,48.8575475,2.3513765
+2007,44,River Café,London,United Kingdom,51.5072178,-0.1275862
+2007,45,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
+2007,46,Combal Zero,Rivoli,Italy,45.0704608,7.5198702
+2007,47,Le Quartier Français,Franschhoek,South Africa,-33.9127211,19.1212795
+2007,48,Taillevent,Paris,France,48.8575475,2.3513765
+2007,49,Bocuse,Lyon,France,45.764043,4.835659
+2007,50,Les Ambassadeurs,Paris,France,48.8575475,2.3513765
+2008,1,El Bulli,Roses,Spain,42.2639489,3.1795528
+2008,2,The Fat Duck,Maidenhead,United Kingdom,51.5225605,-0.7243082
+2008,3,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2008,4,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2008,5,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2008,6,Per Se,New York,United States,40.7127753,-74.0059728
+2008,7,Bras,Laguiole,France,44.683579,2.845605
+2008,8,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2008,9,Tetsuya's,Sydney,Australia,-33.8688197,151.2092955
+2008,10,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2008,11,L'Astrance,Paris,France,48.8575475,2.3513765
+2008,12,Gambero Rosso,Vernazza,Italy,44.1353502,9.6827957
+2008,13,Restaurant Gordon Ramsay,London,United Kingdom,51.5072178,-0.1275862
+2008,14,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2008,15,Le Louis XV,Monaco,Monaco,43.7384176,7.42461579
+2008,16,St John,London,United Kingdom,51.5072178,-0.1275862
+2008,17,Jean Georges,New York,United States,40.7127753,-74.0059728
+2008,18,Alain Ducasse au Plaza Athénée,Paris,France,48.8575475,2.3513765
+2008,19,Hakkasan,London,United Kingdom,51.5072178,-0.1275862
+2008,20,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2008,21,Alinea,Chicago,United States,41.8781136,-87.6297982
+2008,22,Le Gavroche,London,United Kingdom,51.5072178,-0.1275862
+2008,23,Dal Pescatore,Canneto sull'Oglio,Italy,45.1515537,10.3828899
+2008,24,Le Cinq,Paris,France,48.8575475,2.3513765
+2008,25,Troisgros,Paris,France,48.8575475,2.3513765
+2008,26,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2008,27,L'Hotel de Ville - Philippe Rochat,Crissier,Switzerland,46.5518687,6.5743458
+2008,28,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2008,29,Martin Berasategui,Lasarte-Oria,Spain,43.2684377,-2.0178149
+2008,30,Nobu,London,United Kingdom,51.5072178,-0.1275862
+2008,31,Can Fabes,Barcelona,Spain,41.3873974,2.168568
+2008,32,Enoteca Pinchiorri,Florence,Italy,43.7699685,11.2576706
+2008,33,Le Meurice,Paris,France,48.8575475,2.3513765
+2008,34,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2008,35,Die Schwarzaldstube,Baiersbronn,Germany,48.5089458,8.3706727
+2008,36,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2008,37,Chez Panisse,Berkeley,United States,37.8715226,-122.273042
+2008,38,Charlie Trotter's,Chicago,United States,41.8781136,-87.6297982
+2008,39,Chez Dominique,Helsinki,Finland,60.1698556,24.938379
+2008,40,D.O.M.,São Paulo,Brazil,-23.5557714,-46.6395571
+2008,41,Daniel,New York,United States,40.7127753,-74.0059728
+2008,42,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
+2008,43,Ristorante Cracco,Milan,Italy,45.468503,9.18240269
+2008,44,Asador Etxebarri,Axte,Spain,40.463667,-3.74922
+2008,45,Les Ambassadeurs,Paris,France,48.8575475,2.3513765
+2008,46,Arpège,Paris,France,48.8575475,2.3513765
+2008,47,Tantris,München,Germany,48.1351253,11.5819806
+2008,48,Oaxen Krog,Stockholm,Sweden,59.3293234,18.0685808
+2008,49,Rockpool,Sydney,Australia,-33.8688197,151.2092955
+2008,50,Le Quartier Français,Franschhoek,South Africa,-33.9127211,19.1212795
+2009,1,El Bulli,Roses,Spain,42.2639489,3.1795528
+2009,2,The Fat Duck,Maidenhead,United Kingdom,51.5225605,-0.7243082
+2009,3,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2009,4,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2009,5,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2009,6,Per Se,New York,United States,40.7127753,-74.0059728
+2009,7,Bras,Laguiole,France,44.683579,2.845605
+2009,8,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2009,9,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2009,10,Alinea,Chicago,United States,41.8781136,-87.6297982
+2009,11,L'Astrance,Paris,France,48.8575475,2.3513765
+2009,12,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2009,13,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2009,14,St John,London,United Kingdom,51.5072178,-0.1275862
+2009,15,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2009,16,L'Hotel de Ville - Philippe Rochat,Crissier,Switzerland,46.5518687,6.5743458
+2009,17,Tetsuya's,Sydney,Australia,-33.8688197,151.2092955
+2009,18,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2009,19,Jean Georges,New York,United States,40.7127753,-74.0059728
+2009,20,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2009,21,Chez Dominique,Copenhagen,Denmark,55.6760968,12.5683371
+2009,22,Ristorante Cracco,Milan,Italy,45.468503,9.18240269
+2009,23,Die Schwarzaldstube,Baiersbronn,Germany,48.5089458,8.3706727
+2009,24,D.O.M.,São Paulo,Brazil,-23.5557714,-46.6395571
+2009,25,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2009,26,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2009,27,Masa,New York,United States,40.7127753,-74.0059728
+2009,28,Gambero Rosso,Vernazza,Italy,44.1353502,9.6827957
+2009,29,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
+2009,30,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2009,31,Momofuku Ssäm Bar,New York,United States,40.7127753,-74.0059728
+2009,32,Oaxen Krog,Stockholm,Sweden,59.3293234,18.0685808
+2009,33,Martin Berasategui,Lasarte-Oria,Spain,43.2684377,-2.0178149
+2009,34,Nobu,London,United Kingdom,51.5072178,-0.1275862
+2009,35,Mirazur,Menton,France,43.774481,7.49754
+2009,36,Hakkasan,London,United Kingdom,51.5072178,-0.1275862
+2009,37,Le Quartier Français,Franschhoek,South Africa,-33.9127211,19.1212795
+2009,38,La Colombe,Cape Town,South Africa,-33.922087,18.4231418
+2009,39,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2009,40,Le Chateaubriand,Paris,France,48.8575475,2.3513765
+2009,41,Daniel,New York,United States,40.7127753,-74.0059728
+2009,42,Combal Zero,Rivoli,Italy,45.0704608,7.5198702
+2009,43,Le Louis XV,Monaco,Monaco,43.7384176,7.42461579
+2009,44,Tantris,München,Germany,48.1351253,11.5819806
+2009,45,Iggy's,Singapore,Singapore,1.352083,103.819836
+2009,46,Quay,Sydney,Australia,-33.8688197,151.2092955
+2009,47,Les Ambassadeurs,Paris,France,48.8575475,2.3513765
+2009,48,Dal Pescatore,Canneto sull'Oglio,Italy,45.1515537,10.3828899
+2009,49,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2009,50,Mathias Dhalgren,Stockholm,Sweden,59.3293234,18.0685808
+2010,1,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2010,2,El Bulli,Roses,Spain,42.2639489,3.1795528
+2010,3,The Fat Duck,Bray,United Kingdom,51.5077255,-0.7005884
+2010,4,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2010,5,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2010,6,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2010,7,Alinea,Chicago,United States,41.8781136,-87.6297982
+2010,8,Daniel,New York,United States,40.7127753,-74.0059728
+2010,9,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2010,10,Per Se,New York,United States,40.7127753,-74.0059728
+2010,11,Le Chateaubriand,Paris,France,48.8575475,2.3513765
+2010,12,La Colombe,Cape Town,South Africa,-33.922087,18.4231418
+2010,13,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2010,14,L'Hotel de Ville - Philippe Rochat,Crissier,Switzerland,46.5518687,6.5743458
+2010,15,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2010,16,L'Astrance,Paris,France,48.8575475,2.3513765
+2010,17,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2010,18,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2010,19,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
+2010,20,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2010,21,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2010,22,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2010,23,Chez Dominique,Helsinki,Finland,60.1698556,24.938379
+2010,24,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2010,25,Mathias Dhalgren,Stockholm,Sweden,59.3293234,18.0685808
+2010,26,Momofuku Ssäm Bar,New York,United States,40.7127753,-74.0059728
+2010,27,Quay,Sydney,Australia,-33.8688197,151.2092955
+2010,28,Iggy's,Singapore,Singapore,1.352083,103.819836
+2010,29,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2010,30,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2010,31,Le Quartier Francais,Franschhoek,South Africa,-33.9127211,19.1212795
+2010,32,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2010,33,Martin Berasategui,Lasarte-Oria,Spain,43.2684377,-2.0178149
+2010,34,Aqua,Wolfsburg,Germany,52.4226503,10.7865461
+2010,35,Combal Zero,Rivoli,Italy,45.0704608,7.5198702
+2010,36,Dal Pescatore,Canneto sull'Oglio,Italy,45.1515537,10.3828899
+2010,37,De Librije,Zwolle,Netherlands,52.5167747,6.08302189
+2010,38,Tetsuya's,Sydney,Australia,-33.8688197,151.2092955
+2010,39,Jaan Par Andre,Singapore,Singapore,1.352083,103.819836
+2010,40,Il Canto,Siena,Italy,43.3184741,11.3305812
+2010,41,Alain Ducasse au Plaza Athénée,Paris,France,48.8575475,2.3513765
+2010,42,Oaxen Krog,Stockholm,Sweden,59.3293234,18.0685808
+2010,43,St John,London,United Kingdom,51.5072178,-0.1275862
+2010,44,Maison Troisgros,Lyon,France,45.764043,4.835659
+2010,45,WD~50,New York,United States,40.7127753,-74.0059728
+2010,46,Biko,Mexico City,Mexico,19.4326077,-99.133208
+2010,47,Die Schwarzaldstube,Baiersbronn,Germany,48.5089458,8.3706727
+2010,48,Nihonryori Ryugin,Tokyo,Japan,35.6764225,139.650027
+2010,49,Hibiscus,London,United Kingdom,51.5072178,-0.1275862
+2010,50,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
+2011,1,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2011,2,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2011,3,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2011,4,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2011,5,The Fat Duck,Bray,United Kingdom,51.5077255,-0.7005884
+2011,6,Alinea,Chicago,United States,41.8781136,-87.6297982
+2011,7,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2011,8,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2011,9,Le Chateaubriand,Paris,France,48.8575475,2.3513765
+2011,10,Per Se,New York,United States,40.7127753,-74.0059728
+2011,11,Daniel,New York,United States,40.7127753,-74.0059728
+2011,12,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2011,13,L'Astrance,Paris,France,48.8575475,2.3513765
+2011,14,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2011,15,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2011,16,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2011,17,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
+2011,18,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2011,19,Arpège,Paris,France,48.8575475,2.3513765
+2011,20,Restaurant Frantzén,Stockholm,Sweden,59.3293234,18.0685808
+2011,21,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2011,22,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2011,23,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2011,24,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
+2011,25,Aqua,Wolfsburg,Germany,52.4226503,10.7865461
+2011,26,Quay,Sydney,Australia,-33.8688197,151.2092955
+2011,27,Iggy's,Singapore,Singapore,1.352083,103.819836
+2011,28,Combal Zero,Rivoli,Italy,45.0704608,7.5198702
+2011,29,Martin Berasategui,Lasarte-Oria,Spain,43.2684377,-2.0178149
+2011,30,Bras Restaurant,Laguiole,France,44.683579,2.845605
+2011,31,Biko,Mexico City,Mexico,19.4326077,-99.133208
+2011,32,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2011,33,Ristorante Cracco,Milan,Italy,45.468503,9.18240269
+2011,34,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
+2011,35,Chez Dominique,Helsinki,Finland,60.1698556,24.938379
+2011,36,Le Quartier Français,Franschhoek,South Africa,-33.9127211,19.1212795
+2011,37,Amber,Hong Kong,Hong Kong,22.3193039,114.1693611
+2011,38,Dal Pescatore,Canneto sull'Oglio,Italy,45.1515537,10.3828899
+2011,39,Il Canto,Siena,Italy,43.3184741,11.3305812
+2011,40,Momofuku Ssäm Bar,New York,United States,40.7127753,-74.0059728
+2011,41,St John,London,United Kingdom,51.5072178,-0.1275862
+2011,42,Astrid y Gastón,Lima,Peru,-12.0466888,-77.0430885
+2011,43,Hibiscus,London,United Kingdom,51.5072178,-0.1275862
+2011,44,Maison Troisgros,Lyon,France,45.764043,4.835659
+2011,45,Alain Ducasse au Plaza Athénée,Paris,France,48.8575475,2.3513765
+2011,46,De Librije,Zwolle,Netherlands,52.5167747,6.08302189
+2011,47,Restaurant de l'Hotel de Ville ,Crissier,Switzerland,46.5518687,6.5743458
+2011,48,Varvary,Moscow,Russia,55.755826,37.6173
+2011,49,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2011,50,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2012,1,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2012,2,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2012,3,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2012,4,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2012,5,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2012,6,Per Se,New York,United States,40.7127753,-74.0059728
+2012,7,Alinea,Chicago,United States,41.8781136,-87.6297982
+2012,8,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2012,9,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
+2012,10,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
+2012,11,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2012,12,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2012,13,The Fat Duck,Bray,United Kingdom,51.5077255,-0.7005884
+2012,14,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
+2012,15,Le Chateaubriand,Paris,France,48.8575475,2.3513765
+2012,16,Arpège,Paris,France,48.8575475,2.3513765
+2012,17,Pierre Gagnaire,Paris,France,48.8575475,2.3513765
+2012,18,L'Astrance,Paris,France,48.8575475,2.3513765
+2012,19,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2012,20,Restaurant Frantzén,Stockholm,Sweden,59.3293234,18.0685808
+2012,21,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
+2012,22,Aqua,Wolfsburg,Germany,52.4226503,10.7865461
+2012,23,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2012,24,Mirazur,Menton,France,43.774481,7.49754
+2012,25,Daniel,New York,United States,40.7127753,-74.0059728
+2012,26,Iggy's,Singapore,Singapore,1.352083,103.819836
+2012,27,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2012,28,Nihonryori Ryugin,Tokyo,Japan,35.6764225,139.650027
+2012,29,Quay,Sydney,Australia,-33.8688197,151.2092955
+2012,30,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2012,31,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2012,32,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2012,33,De Librije,Zwolle,Netherlands,52.5167747,6.08302189
+2012,34,Fäviken,Järpen,Sweden,63.3496304,13.4529077
+2012,35,Astrid y Gastón,Lima,Peru,-12.0466888,-77.0430885
+2012,36,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2012,37,Momofuku Ssäm Bar,New York,United States,40.7127753,-74.0059728
+2012,38,Biko,Mexico City,Mexico,19.4326077,-99.133208
+2012,39,Waku Ghin,Singapore,Singapore,1.352083,103.819836
+2012,40,Quique Dacosta,Denia,Spain,38.8387992,0.1050557
+2012,41,Mathias Dahlgren,Stockholm,Sweden,59.3293234,18.0685808
+2012,42,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2012,43,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2012,44,Amber,Hong Kong,Hong Kong,22.3193039,114.1693611
+2012,45,Vila Joya,Albufeira,Portugal,37.0890719,-8.2478796
+2012,46,Il Canto,Siena,Italy,43.3184741,11.3305812
+2012,47,Bras Restaurant,Laguiole,France,44.683579,2.845605
+2012,48,Manresa,Los Gatos,United States,37.2358078,-121.9623751
+2012,49,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
+2012,50,Nahm,Bangkok,Thailand,13.7563309,100.5017651
+2013,1,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2013,2,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2013,3,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2013,4,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2013,5,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
+2013,6,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2013,7,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
+2013,8,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2013,9,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2013,10,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2013,11,Per Se,New York,United States,40.7127753,-74.0059728
+2013,12,Frantzén/Lindeberg,Stockholm,Sweden,59.3293234,18.0685808
+2013,13,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
+2013,14,Astrid y Gastón,Lima,Peru,-12.0466888,-77.0430885
+2013,15,Alinea,Chicago,United States,41.8781136,-87.6297982
+2013,16,Arpège,Paris,France,48.8575475,2.3513765
+2013,17,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2013,18,Le Chateaubriand,Paris,France,48.8575475,2.3513765
+2013,19,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2013,20,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2013,21,Attica,Melbourne,Australia,-37.8136276,144.9630576
+2013,22,Nihonryori Ryugin,Tokyo,Japan,35.6764225,139.650027
+2013,23,L'Astrance,Paris,France,48.8575475,2.3513765
+2013,24,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2013,25,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2013,26,Quique Dacosta,Denia,Spain,38.8387992,0.1050557
+2013,27,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2013,28,Mirazur,Menton,France,43.774481,7.49754
+2013,29,Daniel,New York,United States,40.7127753,-74.0059728
+2013,30,Aqua,Wolfsburg,Germany,52.4226503,10.7865461
+2013,31,Biko,Mexico City,Mexico,19.4326077,-99.133208
+2013,32,Nahm,Bangkok,Thailand,13.7563309,100.5017651
+2013,33,The Fat Duck,Bray,United Kingdom,51.5077255,-0.7005884
+2013,34,Fäviken,Järpen,Sweden,63.3496304,13.4529077
+2013,35,Oud Sluis,Sluis,Netherlands,51.3086558,3.3879195
+2013,36,Amber,Hong Kong,Hong Kong,22.3193039,114.1693611
+2013,37,Vila Joya,Albufeira,Portugal,37.0890719,-8.2478796
+2013,38,Restaurant André,Singapore,Singapore,1.352083,103.819836
+2013,39,8 1/2 Otto e Mezzo Bombana,Hong Kong,Hong Kong,22.3193039,114.1693611
+2013,40,Combal.Zero,Rivoli,Italy,45.0704608,7.5198702
+2013,41,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2013,42,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2013,43,Mr and Mrs Bund,Shanghai,China,31.230416,121.473701
+2013,44,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2013,45,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
+2013,46,Maní,São Paulo,Brazil,-23.5557714,-46.6395571
+2013,47,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2013,48,Quay,Sydney,Australia,-33.8688197,151.2092955
+2013,49,Septime,Paris,France,48.8575475,2.3513765
+2013,50,Central,Lima,Peru,-12.0466888,-77.0430885
+2014,1,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2014,2,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2014,3,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2014,4,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
+2014,5,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
+2014,6,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2014,7,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2014,8,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2014,9,Alinea,Chicago,United States,41.8781136,-87.6297982
+2014,10,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
+2014,11,Mirazur,Menton,France,43.774481,7.49754
+2014,12,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2014,13,Nahm,Bangkok,Thailand,13.7563309,100.5017651
+2014,14,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2014,15,Central,Lima,Peru,-12.0466888,-77.0430885
+2014,16,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2014,17,Gaggan,Bangkok,Thailand,13.7563309,100.5017651
+2014,18,Astrid y Gastón,Lima,Peru,-12.0466888,-77.0430885
+2014,19,Fäviken,Järpen,Sweden,63.3496304,13.4529077
+2014,20,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2014,21,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2014,22,Vila Joya,Albufeira,Portugal,37.0890719,-8.2478796
+2014,23,Restaurant Frantzén,Stockholm,Sweden,59.3293234,18.0685808
+2014,24,Amber,Hong Kong,Hong Kong,22.3193039,114.1693611
+2014,25,Arpège,Paris,France,48.8575475,2.3513765
+2014,26,Azurmendi,Larrabetzu,Spain,43.2609878,-2.7960332
+2014,27,Le Chateaubriand,Paris,France,48.8575475,2.3513765
+2014,28,Aqua,Wolfsburg,Germany,52.4226503,10.7865461
+2014,29,De Librije,Zwolle,Netherlands,52.5167747,6.08302189
+2014,30,Per Se,New York,United States,40.7127753,-74.0059728
+2014,31,L'Atelier Saint Germain De Joël Robuchon,Paris,France,48.8575475,2.3513765
+2014,32,Attica,Melbourne,Australia,-37.8136276,144.9630576
+2014,33,Nihonryori Ryugin,Tokyo,Japan,35.6764225,139.650027
+2014,34,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2014,35,Martín Berasategui,Lasarte-Oria,Spain,43.2684377,-2.0178149
+2014,36,Maní,São Paulo,Brazil,-23.5557714,-46.6395571
+2014,37,Restaurant André,Singapore,Singapore,1.352083,103.819836
+2014,38,L'Astrance,Paris,France,48.8575475,2.3513765
+2014,39,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2014,40,Daniel,New York,United States,40.7127753,-74.0059728
+2014,41,Quique Dacosta,Denia,Spain,38.8387992,0.1050557
+2014,42,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
+2014,43,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2014,44,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2014,45,Hof van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2014,46,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2014,47,The Fat Duck,Bray,United Kingdom,51.5077255,-0.7005884
+2014,48,The Test Kitchen,Cape Town,South Africa,-33.922087,18.4231418
+2014,49,Coi,San Francisco,United States,37.7749295,-122.4194155
+2014,50,Waku Ghin,Singapore,Singapore,1.352083,103.819836
+2015,1,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2015,2,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2015,3,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2015,4,Central,Lima,Peru,-12.0466888,-77.0430885
+2015,5,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
+2015,6,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2015,7,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
+2015,8,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2015,9,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2015,10,Gaggan,Bangkok,Thailand,13.7563309,100.5017651
+2015,11,Mirazur,Menton,France,43.774481,7.49754
+2015,12,Arpège,Paris,France,48.8575475,2.3513765
+2015,13,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2015,14,Astrid y Gastón,Lima,Peru,-12.0466888,-77.0430885
+2015,15,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2015,16,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2015,17,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2015,18,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2015,19,Azurmendi,Larrabetzu,Spain,43.2609878,-2.7960332
+2015,20,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
+2015,21,Le Chateaubriand,Paris,France,48.8575475,2.3513765
+2015,22,Nahm,Bangkok,Thailand,13.7563309,100.5017651
+2015,23,White Rabbit,Moscow,Russia,55.755826,37.6173
+2015,24,Ultraviolet by Paul Pairet,Shanghai,China,31.230416,121.473701
+2015,25,Fäviken,Järpen,Sweden,63.3496304,13.4529077
+2015,26,Alinea,Chicago,United States,41.8781136,-87.6297982
+2015,27,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2015,28,The Test Kitchen,Cape Town,South Africa,-33.922087,18.4231418
+2015,29,Nihonryori Ryugin,Tokyo,Japan,35.6764225,139.650027
+2015,30,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2015,31,Restaurant Frantzén,Stockholm,Sweden,59.3293234,18.0685808
+2015,32,Attica,Melbourne,Australia,-37.8136276,144.9630576
+2015,33,Aqua,Wolfsburg,Germany,52.4226503,10.7865461
+2015,34,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2015,35,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
+2015,36,L'Astrance,Paris,France,48.8575475,2.3513765
+2015,37,Biko,Mexico City,Mexico,19.4326077,-99.133208
+2015,38,Amber,Hong Kong,Hong Kong,22.3193039,114.1693611
+2015,39,Quique Dacosta,Denia,Spain,38.8387992,0.1050557
+2015,40,Per Se,New York,United States,40.7127753,-74.0059728
+2015,41,Maní,São Paulo,Brazil,-23.5557714,-46.6395571
+2015,42,Boragó,Santiago,Chile,-33.4488897,-70.6692655
+2015,43,Tickets,Barcelona,Spain,41.3873974,2.168568
+2015,44,Maido,Lima,Peru,-12.0466888,-77.0430885
+2015,45,Relae,Copenhagen,Denmark,55.6760968,12.5683371
+2015,46,Restaurant André,Singapore,Singapore,1.352083,103.819836
+2015,47,Alain Ducasse au Plaza Athénée,Paris,France,48.8575475,2.3513765
+2015,48,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2015,49,Blue Hill at Stone Barns,Pocantico Hills,United States,41.0945407,-73.8359677
+2015,50,The French Laundry,Yountville,United States,38.401578,-122.3608105
+2016,1,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2016,2,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2016,3,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
+2016,4,Central,Lima,Peru,-12.0466888,-77.0430885
+2016,5,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2016,6,Mirazur,Menton,France,43.774481,7.49754
+2016,7,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2016,8,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2016,9,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2016,10,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2016,11,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2016,12,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
+2016,13,Maido,Lima,Peru,-12.0466888,-77.0430885
+2016,14,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
+2016,15,Alinea,Chicago,United States,41.8781136,-87.6297982
+2016,16,Azurmendi,Larrabetzu,Spain,43.2609878,-2.7960332
+2016,17,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2016,19,Arpège,Paris,France,48.8575475,2.3513765
+2016,20,Amber,Hong Kong,Hong Kong,22.3193039,114.1693611
+2016,21,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2016,22,The Test Kitchen,Cape Town,South Africa,-33.922087,18.4231418
+2016,22,Nahm,Bangkok,Thailand,13.7563309,100.5017651
+2016,23,White Rabbit,Moscow,Russia,55.755826,37.6173
+2016,23,Gaggan,Bangkok,Thailand,13.7563309,100.5017651
+2016,24,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2016,25,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2016,26,The Clove Club,London,United Kingdom,51.5072178,-0.1275862
+2016,27,Saison,San Francisco,United States,37.7749295,-122.4194155
+2016,28,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
+2016,29,Tickets,Barcelona,Spain,41.3873974,2.168568
+2016,30,Astrid y Gastón,Lima,Peru,-12.0466888,-77.0430885
+2016,31,Nihonryori Ryugin,Tokyo,Japan,35.6764225,139.650027
+2016,32,Restaurant André,Singapore,Singapore,1.352083,103.819836
+2016,33,Attica,Melbourne,Australia,-37.8136276,144.9630576
+2016,34,Restaurant Tim Raue,Berlin,Germany,52.5200065,13.404954
+2016,35,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2016,36,Boragó,Santiago,Chile,-33.4488897,-70.6692655
+2016,38,De Librije,Zwolle,Netherlands,52.5167747,6.08302189
+2016,39,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2016,40,Relae,Copenhagen,Denmark,55.6760968,12.5683371
+2016,41,Fäviken,Järpen,Sweden,63.3496304,13.4529077
+2016,42,Ultraviolet by Paul Pairet,Shanghai,China,31.230416,121.473701
+2016,43,Biko,Mexico City,Mexico,19.4326077,-99.133208
+2016,44,Estela,New York,United States,40.7127753,-74.0059728
+2016,45,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
+2016,46,Combal Zero,Rivoli,Italy,45.0704608,7.5198702
+2016,47,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2016,48,Blue Hill at Stone Barns,Pocantico Hills,United States,41.0945407,-73.8359677
+2016,49,Quique Dacosta,Denia,Spain,38.8387992,0.1050557
+2016,50,Septime,Paris,France,48.8575475,2.3513765
+2017,1,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
+2017,2,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2017,3,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2017,4,Mirazur,Menton,France,43.774481,7.49754
+2017,5,Central,Lima,Peru,-12.0466888,-77.0430885
+2017,6,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2017,7,Gaggan,Bangkok,Thailand,13.7563309,100.5017651
+2017,8,Maido,Lima,Peru,-12.0466888,-77.0430885
+2017,9,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2017,10,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2017,11,Blue Hill at Stone Barns,Pocantico Hills,United States,41.0945407,-73.8359677
+2017,12,Arpège,Paris,France,48.8575475,2.3513765
+2017,13,Alain Ducasse au Plaza Athénée,Paris,France,48.8575475,2.3513765
+2017,14,Restaurant André,Singapore,Singapore,1.352083,103.819836
+2017,15,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2017,16,D.O.M.,Sao Paulo,Brazil,-23.5557714,-46.6395571
+2017,17,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2017,18,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2017,19,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
+2017,20,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2017,21,Alinea,Chicago,United States,41.8781136,-87.6297982
+2017,22,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
+2017,23,White Rabbit,Moscow,Russia,55.755826,37.6173
+2017,24,Amber,Hong Kong,Hong Kong,22.3193039,114.1693611
+2017,25,Tickets,Barcelona,Spain,41.3873974,2.168568
+2017,26,The Clove Club,London,United Kingdom,51.5072178,-0.1275862
+2017,27,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
+2017,28,Nahm,Bangkok,Thailand,13.7563309,100.5017651
+2017,29,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2017,30,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2017,31,Alléno Paris au Pavillon Ledoyen,Paris,France,48.8575475,2.3513765
+2017,32,Attica,Melbourne,Australia,-37.8136276,144.9630576
+2017,33,Astrid y Gastón,Lima,Peru,-12.0466888,-77.0430885
+2017,34,De Librije,Zwolle,Netherlands,52.5167747,6.08302189
+2017,35,Septime,Paris,France,48.8575475,2.3513765
+2017,36,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
+2017,37,Saison,San Francisco,United States,37.7749295,-122.4194155
+2017,38,Azurmendi,Larrabetzu,Spain,43.2609878,-2.7960332
+2017,39,Relae,Copenhagen,Denmark,55.6760968,12.5683371
+2017,40,Cosme,New York,United States,40.7127753,-74.0059728
+2017,41,Ultraviolet by Paul Pairet,Shanghai,China,31.230416,121.473701
+2017,42,Boragó,Santiago,Chile,-33.4488897,-70.6692655
+2017,43,Reale,Castel di Sangro,Italy,41.783948,14.1081016
+2017,44,Brae,Birregurra,Australia,-38.3363687,143.7836314
+2017,45,Den,Tokyo,Japan,35.6764225,139.650027
+2017,46,L'Astrance,Paris,France,48.8575475,2.3513765
+2017,47,Vendôme,Bergisch Gladbach,Germany,50.9896478,7.1229789
+2017,48,Restaurant Tim Raue,Berlin,Germany,52.5200065,13.404954
+2017,49,Tegui,Buenos Aires,Argentina,-34.6036844,-58.3815591
+2017,50,Hof Van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2018,1,Osteria Francescana,Modena,Italy,44.647128,10.9252269
+2018,2,El Celler de Can Roca,Girona,Spain,41.9794005,2.8214264
+2018,3,Mirazur,Menton,France,43.774481,7.49754
+2018,4,Eleven Madison Park,New York,United States,40.7127753,-74.0059728
+2018,5,Gaggan,Bangkok,Thailand,13.7563309,100.5017651
+2018,6,Central,Lima,Peru,-12.0466888,-77.0430885
+2018,7,Maido,Lima,Peru,-12.0466888,-77.0430885
+2018,8,Arpège,Paris,France,48.8575475,2.3513765
+2018,9,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2018,10,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2018,11,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
+2018,12,Blue Hill at Stone Barns,Pocantico Hills,United States,41.0945407,-73.8359677
+2018,13,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2018,14,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2018,15,White Rabbit,Moscow,Russia,55.755826,37.6173
+2018,16,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2018,17,Den,Tokyo,Japan,35.6764225,139.650027
+2018,18,Disfrutar,Barcelona,Spain,41.3873974,2.168568
+2018,19,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
+2018,20,Attica,Melbourne,Australia,-37.8136276,144.9630576
+2018,21,Alain Ducasse au Plaza Athénée,Paris,France,48.8575475,2.3513765
+2018,22,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2018,23,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2018,24,Ultraviolet by Paul Pairet,Shanghai,China,31.230416,121.473701
+2018,25,Cosme,New York,United States,40.7127753,-74.0059728
+2018,26,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2018,27,Boragó,Santiago,Chile,-33.4488897,-70.6692655
+2018,28,Odette,Singapore,Singapore,1.352083,103.819836
+2018,29,Alléno Paris au Pavillon Ledoyen,Paris,France,48.8575475,2.3513765
+2018,30,D.O.M,São Paulo,Brazil,-23.5557714,-46.6395571
+2018,31,Arzak,San Sebastian,Spain,43.318237,-1.9817051
+2018,32,Tickets,Barcelona,Spain,41.3873974,2.168568
+2018,33,The Clove Club,London,United Kingdom,51.5072178,-0.1275862
+2018,34,Alinea,Chicago,United States,41.8781136,-87.6297982
+2018,35,Maaemo,Oslo,Norway,59.9138688,10.7522454
+2018,36,Reale,Castel di Sangro,Italy,41.783948,14.1081016
+2018,37,Restaurant Tim Raue,Berlin,Germany,52.5200065,13.404954
+2018,38,Lyle's,London,United Kingdom,51.5072178,-0.1275862
+2018,39,Astrid y Gastón,Lima,Peru,-12.0466888,-77.0430885
+2018,40,Septime,Paris,France,48.8575475,2.3513765
+2018,41,Nihonryori Ryugin,Tokyo,Japan,35.6764225,139.650027
+2018,42,The Ledbury,London,United Kingdom,51.5072178,-0.1275862
+2018,43,Azurmendi,Larrabetzu,Spain,43.2609878,-2.7960332
+2018,44,Mikla,Istanbul,Türkiye,41.0082376,28.9783589
+2018,45,Dinner by Heston Blumenthal,London,United Kingdom,51.5072178,-0.1275862
+2018,46,Saison,San Francisco,United States,37.7749295,-122.4194155
+2018,47,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2018,48,Hiša Franko,Kobarid,Slovenia,46.2476549,13.5791749
+2018,49,Nahm,Bangkok,Thailand,13.7563309,100.5017651
+2018,50,The Test Kitchen,Cape Town,South Africa,-33.922087,18.4231418
+2019,1,Mirazur,Menton,France,43.774481,7.49754
+2019,2,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2019,3,Asador Etxebarri,Axpe,Spain,43.1159431,-2.5981535
+2019,4,Gaggan,Bangkok,Thailand,13.7563309,100.5017651
+2019,5,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
+2019,6,Central,Lima,Peru,-12.0466888,-77.0430885
+2019,7,Mugaritz,San Sebastián,Spain,43.318237,-1.9817051
+2019,8,Arpège,Paris,France,48.8575475,2.3513765
+2019,9,Disfrutar,Barcelona,Spain,41.3873974,2.168568
+2019,10,Maido,Lima,Peru,-12.0466888,-77.0430885
+2019,11,Den,Tokyo,Japan,35.6764225,139.650027
+2019,12,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2019,13,White Rabbit,Moscow,Russia,55.755826,37.6173
+2019,14,Azurmendi,Larrabetzu,Spain,43.2609878,-2.7960332
+2019,15,Septime,Paris,France,48.8575475,2.3513765
+2019,16,Alain Ducasse au Plaza Athénée,Paris,France,48.8575475,2.3513765
+2019,17,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2019,18,Odette,Singapore,Singapore,1.352083,103.819836
+2019,19,Twins Garden,Moscow,Russia,55.755826,37.6173
+2019,20,Tickets,Barcelona,Spain,41.3873974,2.168568
+2019,21,Frantzén,Stockholm,Sweden,59.3293234,18.0685808
+2019,22,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2019,23,Cosme,New York,United States,40.7127753,-74.0059728
+2019,24,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
+2019,25,Alléno Paris au Pavillon Ledoyen,Paris,France,48.8575475,2.3513765
+2019,26,Boragó,Santiago,Chile,-33.4488897,-70.6692655
+2019,27,The Clove Club,London,United Kingdom,51.5072178,-0.1275862
+2019,28,Blue Hill at Stone Barns,Pocantico Hills,United States,41.0945407,-73.8359677
+2019,29,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2019,30,Elkano,Getaria,Spain,43.3077339,-2.2021494
+2019,31,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2019,32,Nerua Guggenheim Bilbao,Bilbao,Spain,43.2633799,-2.9348121
+2019,33,Lyle's,London,United Kingdom,51.5072178,-0.1275862
+2019,34,Don Julio,Buenos Aires,Argentina,-34.6036844,-58.3815591
+2019,35,Atelier Crenn,San Francisco,United States,37.7749295,-122.4194155
+2019,36,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2019,37,Alinea,Chicago,United States,41.8781136,-87.6297982
+2019,38,Hiša Franko,Kobarid,Slovenia,46.2476549,13.5791749
+2019,39,A Casa do Porco,São Paulo,Brazil,-23.5557714,-46.6395571
+2019,40,Restaurant Tim Raue,Berlin,Germany,52.5200065,13.404954
+2019,41,The Chairman,Hong Kong,Hong Kong,22.3193039,114.1693611
+2019,42,Belcanto,Lisbon,Portugal,38.7222524,-9.1393366
+2019,43,Hof Van Cleve,Kruisem,Belgium,50.9045204,3.5281422
+2019,44,The Test Kitchen,Cape Town,South Africa,-33.922087,18.4231418
+2019,45,Sühring,Bangkok,Thailand,13.7563309,100.5017651
+2019,46,De Librije,Zwolle,Netherlands,52.5167747,6.08302189
+2019,47,Benu,San Francisco,United States,37.7749295,-122.4194155
+2019,48,Ultraviolet by Paul Pairet,Shanghai,China,31.230416,121.473701
+2019,49,Leo,Bogotá,Colombia,4.71098859,-74.072092
+2019,50,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2021,1,Noma,Copenhagen,Denmark,55.6760968,12.5683371
+2021,2,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
+2021,3,Asador Etxebarri,Atxondo,Spain,43.131605,-2.5832703
+2021,4,Central,Lima,Peru,-12.0466888,-77.0430885
+2021,5,Disfrutar,Barcelona,Spain,41.3873974,2.168568
+2021,6,Frantzén,Stockholm,Sweden,59.3293234,18.0685808
+2021,7,Maido,Lima,Peru,-12.0466888,-77.0430885
+2021,8,Odette,Singapore,Singapore,1.352083,103.819836
+2021,9,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2021,10,The Chairman,Hong Kong,Hong Kong,22.3193039,114.1693611
+2021,11,Den,Tokyo,Japan,35.6764225,139.650027
+2021,12,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2021,13,Don Julio,Buenos Aires,Argentina,-34.6036844,-58.3815591
+2021,14,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2021,15,Lido 84,Gardone Riviera,Italy,45.623397,10.5636497
+2021,16,Elkano,Getaria,Spain,43.3077339,-2.2021494
+2021,17,A Casa do Porco,São Paulo,Brazil,-23.5557714,-46.6395571
+2021,18,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2021,19,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2021,20,DiverXO,Madrid,Spain,40.4167279,-3.7032905
+2021,21,Hiša Franko,Kobarid,Slovenia,46.2476549,13.5791749
+2021,22,Cosme,New York,United States,40.7127753,-74.0059728
+2021,23,Arpège,Paris,France,48.8575475,2.3513765
+2021,24,Septime,Paris,France,48.8575475,2.3513765
+2021,25,White Rabbit,Moscow,Russia,55.755826,37.6173
+2021,26,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2021,27,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
+2021,28,Benu,San Francisco,United States,37.7749295,-122.4194155
+2021,29,Reale,Castel di Sangro,Italy,41.783948,14.1081016
+2021,30,Twins Garden,Moscow,Russia,55.755826,37.6173
+2021,31,Restaurant Tim Raue,Berlin,Germany,52.5200065,13.404954
+2021,32,The Clove Club,London,United Kingdom,51.5072178,-0.1275862
+2021,33,Lyle's,London,United Kingdom,51.5072178,-0.1275862
+2021,34,Burnt Ends,Singapore,Singapore,1.352083,103.819836
+2021,35,Ultraviolet by Paul Pairet,Shanghai,China,31.230416,121.473701
+2021,36,Hof Van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2021,37,SingleThread,Healdsburg,United States,38.6081693,-122.8700509
+2021,38,Boragó,Santiago,Chile,-33.4488897,-70.6692655
+2021,39,Florilège,Tokyo,Japan,35.6764225,139.650027
+2021,40,Sühring,Bangkok,Thailand,13.7563309,100.5017651
+2021,41,Alléno Paris au Pavillon Ledoyen,Paris,France,48.8575475,2.3513765
+2021,42,Belcanto,Lisbon,Portugal,38.7222524,-9.1393366
+2021,43,Atomix,New York,United States,40.7127753,-74.0059728
+2021,44,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2021,45,Nobelhart & Schmutzig,Berlin,Germany,52.5200065,13.404954
+2021,46,Leo,Bogotá,Colombia,4.71098859,-74.072092
+2021,47,Maaemo,Oslo,Norway,59.9138688,10.7522454
+2021,48,Atelier Crenn,San Francisco,United States,37.7749295,-122.4194155
+2021,49,Azurmendi,Larrabetzu,Spain,43.2609878,-2.7960332
+2021,50,Wolfgat,Paternoster,South Africa,-32.8095585,17.8946521
+2022,1,Geranium,Copenhagen,Denmark,55.6760968,12.5683371
+2022,2,Central,Lima,Peru,-12.0466888,-77.0430885
+2022,3,Disfrutar,Barcelona,Spain,41.3873974,2.168568
+2022,4,Diverxo,Madrid,Spain,40.4167279,-3.7032905
+2022,5,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2022,6,Asador Etxebarri,Atxondo,Spain,43.131605,-2.5832703
+2022,7,A Casa do Porco,São Paulo,Brazil,-23.5557714,-46.6395571
+2022,8,Lido 84,Gardone Riviera,Italy,45.623397,10.5636497
+2022,9,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
+2022,10,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2022,11,Maido,Lima,Peru,-12.0466888,-77.0430885
+2022,12,Uliassi,Senigallia,Italy,43.7197926,13.2152224
+2022,13,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2022,14,Don Julio,Buenos Aires,Argentina,-34.6036844,-58.3815591
+2022,15,Reale,Castel di Sangro,Italy,41.783948,14.1081016
+2022,16,Elkano,Getaria,Spain,43.3077339,-2.2021494
+2022,17,Nobelhart & Schmutzig,Berlin,Germany,52.5200065,13.404954
+2022,18,Alchemist,Copenhagen,Denmark,55.6760968,12.5683371
+2022,19,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2022,20,Den,Tokyo,Japan,35.6764225,139.650027
+2022,21,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2022,22,Septime,Paris,France,48.8575475,2.3513765
+2022,23,The Jane,Antwerp,Belgium,51.2213404,4.4051485
+2022,24,The Chairman,Hong Kong,Hong Kong,22.3193039,114.1693611
+2022,25,Frantzén,Stockholm,Sweden,59.3293234,18.0685808
+2022,26,Restaurant Tim Raue,Berlin,Germany,52.5200065,13.404954
+2022,27,Hof Van Cleve,Kruishoutem,Belgium,50.9044989,3.5281414
+2022,28,Le Clarence,Paris,France,48.8575475,2.3513765
+2022,29,St. Hubertus,San Cassiano,Italy,46.5700687,11.9360615
+2022,30,Florilège,Tokyo,Japan,35.6764225,139.650027
+2022,31,Arpège,Paris,France,48.8575475,2.3513765
+2022,32,Mayta,Lima,Peru,-12.0466888,-77.0430885
+2022,33,Atomix,New York,United States,40.7127753,-74.0059728
+2022,34,Hiša Franko,Kobarid,Slovenia,46.2476549,13.5791749
+2022,35,The Clove Club,London,United Kingdom,51.5072178,-0.1275862
+2022,36,Odette,Singapore,Singapore,1.352083,103.819836
+2022,37,Fyn,Cape Town,South Africa,-33.922087,18.4231418
+2022,38,Jordnær,Copenhagen,Denmark,55.6760968,12.5683371
+2022,39,Sorn,Bangkok,Thailand,13.7563309,100.5017651
+2022,40,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2022,41,La Cime,Osaka,Japan,34.6937249,135.5022535
+2022,42,Quique Dacosta,Dénia,Spain,38.8387992,0.1050557
+2022,43,Boragó,Santiago,Chile,-33.4488897,-70.6692655
+2022,44,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2022,45,Narisawa,Tokyo,Japan,35.6764225,139.650027
+2022,46,Belcanto,Lisbon,Portugal,38.7222524,-9.1393366
+2022,47,Oteque,Rio de Janeiro,Brazil,-22.9068467,-43.1728965
+2022,48,Leo,Bogotá,Colombia,4.71098859,-74.072092
+2022,49,Ikoyi,London,United Kingdom,51.5072178,-0.1275862
+2022,50,SingleThread,Healdsburg,United States,38.6081693,-122.8700509
+2023,1,Central ,Lima,Peru,-12.0466888,-77.0430885
+2023,2,Disfrutar,Barcelona,Spain,41.3873974,2.168568
+2023,3,Diverxo,Madrid,Spain,40.4167279,-3.7032905
+2023,4,Asador Etxebarri,Atxondo,Spain,43.131605,-2.5832703
+2023,5,Alchemist,Copenhagen,Denmark,55.6760968,12.5683371
+2023,6,Maido,Lima,Peru,-12.0466888,-77.0430885
+2023,7,Lido 84,Gardone Riviera,Italy,45.623397,10.5636497
+2023,8,Atomix,New York,United States,40.7127753,-74.0059728
+2023,9,Quintonil,Mexico City,Mexico,19.4326077,-99.133208
+2023,10,Table by Bruno Verjus,Paris,France,48.8575475,2.3513765
+2023,11,Trèsind Studio,Dubai ,United Arab Emirates,25.2048493,55.2707828
+2023,12,A Casa do Porco,São Paulo,Brazil,-23.5557714,-46.6395571
+2023,13,Pujol,Mexico City,Mexico,19.4326077,-99.133208
+2023,14,Odette,Singapore,Singapore,1.352083,103.819836
+2023,15,Le Du,Bangkok,Thailand,13.7563309,100.5017651
+2023,16,Reale,Castel di Sangro,Italy,41.783948,14.1081016
+2023,17,Gaggan Anand,Bangkok,Thailand,13.7563309,100.5017651
+2023,18,Steirereck,Vienna,Austria,48.2080695,16.3713095
+2023,19,Don Julio,Buenos Aires,Argentina,-34.6036844,-58.3815591
+2023,20,Quique Dacosta,Dénia,Spain,38.8387992,0.1050557
+2023,21,Den,Tokyo,Japan,35.6764225,139.650027
+2023,22,Elkano,Getaria,Spain,43.3077339,-2.2021494
+2023,23,Kol,London,United Kingdom,51.5072178,-0.1275862
+2023,24,Septime,Paris,France,48.8575475,2.3513765
+2023,25,Belcanto,Lisbon,Portugal,38.7222524,-9.1393366
+2023,26,Schloss Schauenstein,Fürstenau,Germany,52.5179395,7.674365
+2023,27,Florilège,Tokyo,Japan,35.6764225,139.650027
+2023,28,Kjolle,Lima,Peru,-12.0466888,-77.0430885
+2023,29,Boragó,Santiago,Chile,-33.4488897,-70.6692655
+2023,30,Frantzén,Stockholm,Sweden,59.3293234,18.0685808
+2023,31,Mugaritz,San Sebastian,Spain,43.318237,-1.9817051
+2023,32,Hiša Franko,Kobarid,Slovenia,46.2476549,13.5791749
+2023,33,El Chato,Bogotá,Colombia,4.71098859,-74.072092
+2023,34,Uliassi,Senigallia,Italy,43.7197926,13.2152224
+2023,35,Ikoyi,London,United Kingdom,51.5072178,-0.1275862
+2023,36,Plénitude,Paris,France,48.8575475,2.3513765
+2023,37,Sézanne,Tokyo,Japan,35.6764225,139.650027
+2023,38,The Clove Club,London,United Kingdom,51.5072178,-0.1275862
+2023,39,The Jane,Antwerp,Belgium,51.2213404,4.4051485
+2023,40,Restaurant Tim Raue,Berlin,Germany,52.5200065,13.404954
+2023,41,Le Calandre,Rubano,Italy,45.4262382,11.7937858
+2023,42,Piazza Duomo,Alba,Italy,44.7009526,8.0353488
+2023,43,Leo,Bogotá,Colombia,4.71098859,-74.072092
+2023,44,Le Bernardin,New York,United States,40.7127753,-74.0059728
+2023,45,Nobelhart & Schmutzig,Berlin,Germany,52.5200065,13.404954
+2023,46,Orfali Bros Bistro,Dubai,United Arab Emirates,25.2048493,55.2707828
+2023,47,Mayta,Lima,Peru,-12.0466888,-77.0430885
+2023,48,La Grenouillère,La Madelaine-sous-Montreuil,France,50.466809,1.748056
+2023,49,Rosetta,Mexico City,Mexico,19.4326077,-99.133208
+2023,50,The Chairman,Hong Kong,Hong Kong,22.3193039,114.1693611
